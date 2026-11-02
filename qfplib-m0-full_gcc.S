@@ -15,6 +15,10 @@
 @ along with this file.  If not, see <http://www.gnu.org/licenses/> or
 @ write to the Free Software Foundation, Inc., 51 Franklin Street,
 @ Fifth Floor, Boston, MA  02110-1301, USA.
+@
+@ Released under version 3 of the GNU General Public License as
+@ published by the Free Software Foundation by permission of the
+@ copyright holder
 
 .syntax unified
 .cpu cortex-m0plus
